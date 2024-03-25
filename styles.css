@@ -3,20 +3,20 @@
 
 h1 {
 	 padding-left: 50px;
-	font-size: 32px;
+	
 }
 
 p {
 	padding-left: 50px; 
 	width:700px;
-	line-height: 1.4; 
-	font-size: 20px
+	line-height: 1.4em; 
+	font-size: 1.3em
 }
 
-li {
+ul li {
 	margin-left: 50px;
 	margin-top: 1em;
-	font-size: 20px;
+	font-size: 1.3em;
 	width:700px;
 }
 
